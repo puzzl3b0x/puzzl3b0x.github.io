@@ -25,4 +25,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 
-jekyll Serve
